@@ -6,14 +6,14 @@
   <p align="center">
     a React Based Starlink Trajectory Visualization
     <br />
-    <a href="https://github.com/clairyitinggu/starlink"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/liamourz/Starlink"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/clairyitinggu/starlink">View Demo</a>
+    <a href="https://github.com/liamourz/Starlink">View Demo</a>
     ·
-    <a href="https://github.com/clairyitinggu/starlink/issues">Report Bug</a>
+    <a href="https://github.com/liamourz/Starlink/issues">Report Bug</a>
     ·
-    <a href="https://github.com/clairyitinggu/starlink/issues">Request Feature</a>
+    <a href="https://github.com/liamourz/Starlink/issues">Request Feature</a>
   </p>
 </p>
 
@@ -28,12 +28,7 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
 
@@ -66,33 +61,11 @@ git clone https://github.com/clairyitinggu/TechJob-Hunter.git
 npm install
 ```
 
-<!-- USAGE EXAMPLES -->
-
-## Usage
-
-<!-- ROADMAP -->
-
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
-
-<!-- CONTRIBUTING -->
-
 <!-- LICENSE -->
 
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-<!-- CONTACT -->
-
-## Contact
-
-Clair Gu - [Personal Website - clairgu.me](https://www.clairgu.me)
-
-Project Link: [https://github.com/clairyitinggu](https://github.com/github_username/repo_name)
-
-<!-- ACKNOWLEDGEMENTS -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
